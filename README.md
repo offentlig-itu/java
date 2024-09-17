@@ -3,7 +3,7 @@ Ressurser og tips for å lære og bruke Java
 
 ## Generere et tomt Java-prosjekt med oppdatert Maven-oppsett (Java 22)
 
-1. Endre verdiene `-DgroupId`, `-DartifactId` og `-Dversion` med dine egne prosjekt-detaljer. Disse tre verdiene er påkrevd.
+#### 1. Endre verdiene `-DgroupId`, `-DartifactId` og `-Dversion` med dine egne prosjekt-detaljer. Disse tre verdiene er påkrevd.
 
 | Felt          | Anbefalte verdier        |
 |-------------- |-----------------|
@@ -11,7 +11,7 @@ Ressurser og tips for å lære og bruke Java
 | artifactId    | Dette er navnet på programmet du ønsker å lage.  |
 | version       | Anbefales å la feltet stå som "1.0.0". Denne verdien kan du også endre senere i kode-editoren din. |
 
-2. Verdiene `archetypeGroupId`, `archetypeArtifactId` og `archetypeVersion` skal ikke endres og må være som de er.
+#### 2. Verdiene `archetypeGroupId`, `archetypeArtifactId` og `archetypeVersion` skal ikke endres og må være som de er.
 
 Eksempel:
 
